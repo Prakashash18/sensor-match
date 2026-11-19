@@ -1,0 +1,6 @@
+{
+  "name": "Sensor Match",
+  "description": "A fast, mobile-first IoT sensor matching game for ITE students with real-world scenarios, streaks, and instant hardware facts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
